@@ -1,0 +1,18 @@
+{
+    "name": "timongorpg/monsters",
+    "description": "An agnostic well-structured package that contains D&D creatures",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hudson Pereira",
+            "email": "hudson.byte@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TimongoRPG\\Monsters\\": "src/"
+        }
+    }
+}
