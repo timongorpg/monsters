@@ -2,6 +2,6 @@
 
 namespace TimongoRPG\Monsters\Humanoids;
 
-class Yet
+class Yeti
 {
 }
